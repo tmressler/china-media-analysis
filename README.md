@@ -1,3 +1,5 @@
+![](output.png)
+
 Run `main.py` to pull sources from the web (other than AP News data, which is retrieved from an included RSS feed) and
 generate a plot demonstrating the differences in entity reference between organizations.
 
